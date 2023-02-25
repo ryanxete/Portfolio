@@ -1,0 +1,68 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0rem 10rem 0rem 10rem;
+    width: auto;
+  }
+  
+  li {
+    font-size: 1.2vw;
+    text-decoration: none;
+  }
+  
+  .navBar {
+    background: rgb(48, 40, 60);
+    box-shadow: 4px 2px 5px rgb(104, 104, 104);
+    color: rgb(199, 199, 199);
+    padding: 1.4rem 0rem;
+    height: 4.5rem;
+    width: 100%;
+  }
+  
+  .btnn {
+    background: transparent;
+    border: 2px solid rgb(209, 214, 214);
+    color: rgb(209, 214, 214);
+    padding: 0.4rem 0.5rem;
+  }
+  
+  .btnn:hover {
+    background: white;
+    color: rgb(42, 42, 83);
+    cursor: pointer;
+  }
+  
+  .brand {
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+  
+  b {
+    color: rgb(209, 214, 214);
+    position: absolute;
+  }
+  
+  .navigate {
+    margin-left: 30rem;
+    border: none;
+    color: rgb(209, 214, 214);
+  }
+  
+  .navigate:hover {
+    color: rgb(42, 42, 83);;
+    box-shadow: none;
+    border: none;
+    background-color: white;
+  }
+  
+  .con {
+    text-decoration: none;
+    color: rgb(209, 214, 214);
+    font-size: 16px;
+    padding-right: 1rem;
+  }
+  
+  .contact {
+    margin: 0.38rem 0rem 1rem 60rem;
+  }
