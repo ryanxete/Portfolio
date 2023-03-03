@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = () => {
    
-    return pass;
+    return <h2>projects</h2>;
   };
   
   export default Projects;

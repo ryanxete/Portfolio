@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ContactMe = () => {
-    return pass;
+    return <h2>hi</h2>;
 }
  
 export default ContactMe;
