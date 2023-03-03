@@ -1,6 +1,8 @@
 import "./NavBar.css"
+import { useNavigate, Link } from "react-router-dom";
 
 const NavBar = () => {
+    const navigate = useNavigate();
     return (
         <div className="navBar">
           <ul className="una">
